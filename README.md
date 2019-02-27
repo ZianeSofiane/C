@@ -1,3 +1,3 @@
-# Langage C , Structure de Donnees
+# Langage C , Structures de Donnees
 
-Quelques TDs et TPs réalisés en cours
+Quelques TDs et TPs rÃ©alisÃ©s en cours
